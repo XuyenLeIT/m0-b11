@@ -11,7 +11,6 @@
 
 <div class="container mt-3">
   <h2>List card</h2>
- 
 </div>
 
 </body>
